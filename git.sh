@@ -18,7 +18,7 @@ function pa() {
 
 function cm () {
   translate
-  git add . && git commit --message $msg --author "Alexandre Rangel <mamutal91@gmail.com>"
+  git add . && git commit --message $msg --author "ZJRDroid <zjrdroid@pixelexperience.org>"
 }
 
 function c () {
